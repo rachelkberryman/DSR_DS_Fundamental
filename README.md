@@ -1,5 +1,5 @@
 # Data Science
-
+Credit to Adam Green - adgefficiency.com
 ![](assets/karpathy.png)
 
 - research = worry about models
